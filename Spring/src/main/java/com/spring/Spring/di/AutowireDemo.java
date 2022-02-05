@@ -1,5 +1,8 @@
 package com.spring.Spring.di;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class AutowireDemo {
 	private Inner inner;
 
