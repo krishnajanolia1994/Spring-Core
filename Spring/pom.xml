@@ -30,6 +30,7 @@
 			<artifactId>spring-core</artifactId>
 			<version>4.3.6.RELEASE</version>
 		</dependency>
+		
 
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
